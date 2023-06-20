@@ -25,7 +25,7 @@
 		<spring-cloud.version>Edgware.RELEASE</spring-cloud.version>
 		<spring-data-jpa.version>1.11.7.RELEASE</spring-data-jpa.version>
 		<spring-data-commons.version>1.13.7.RELEASE</spring-data-commons.version>
-		<spring.security.version>2.2.0.RELEASE</spring.security.version>
+		<spring.security.version>2.2.4.RELEASE</spring.security.version>
   </properties>
 
   <dependencies>
